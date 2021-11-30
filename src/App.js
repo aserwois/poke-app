@@ -16,6 +16,7 @@ const S = {
   `,
 };
 console.log("alalalalal");
+console.log("alalalala222222l");
 const App = () => {
   const [data, setData] = useState([]);
   const [search, setSearch] = useState("");
