@@ -4,6 +4,7 @@ import { PokemonDetails, PokemonList, Search } from "./components";
 import { Switch, Route, useHistory } from "react-router-dom";
 
 const BASE_URL = "https://pokeapi.co/api/v2/pokemon/?limit=151";
+console.log("alalala123123123123123lal");
 
 const S = {
   Title: styled.div`
