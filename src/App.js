@@ -15,7 +15,7 @@ const S = {
     margin: 20px 0px;
   `,
 };
-
+console.log("alalalalal");
 const App = () => {
   const [data, setData] = useState([]);
   const [search, setSearch] = useState("");
