@@ -18,6 +18,7 @@ const S = {
 console.log("alalalalal");
 console.log("alalalala222222l");
 const App = () => {
+  console.log("test");
   const [data, setData] = useState([]);
   const [search, setSearch] = useState("");
   const history = useHistory();
